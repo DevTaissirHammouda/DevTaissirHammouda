@@ -26,7 +26,10 @@ Check out all my projects here:
 [🌐 Portfolio](https://taissir-hammouda-portfolio.vercel.app)
 
 ---
+Check out my resume here:
+[Resume](https://drive.google.com/file/d/1yz2xFWR09FmlnMv1D-9-ePASUGIWmE0w/view?usp=drive_link)
 
+---
 ## 🛠 Languages & Tools
 
 **Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular, React, Bootstrap, Tailwind, Figma  
@@ -57,9 +60,9 @@ Check out all my projects here:
 
 - [LinkedIn](https://www.linkedin.com/in/hammouda-taissir-1029a2201/)  
 - [Facebook](https://www.facebook.com/taissir.hammouda.7)  
-- [Resume](https://drive.google.com/file/d/1yz2xFWR09FmlnMv1D-9-ePASUGIWmE0w/view?usp=drive_link)
 
-💬 Ask me about **Angular**, **Spring Boot**, **AI**, or **Supabase/Firebase** — I love sharing knowledge!
+
+💬 Ask me about **Angular**, **Spring Boot**, **AI** or **Docker**  — I love sharing knowledge!
 
 ---
 
