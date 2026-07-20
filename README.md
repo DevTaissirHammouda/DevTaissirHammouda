@@ -1,77 +1,59 @@
-# 👋 Hi, I'm Taissir Hammouda
+<h1 align="left">Hi, I'm Taissir Hammouda 👋</h1>
 
-I'm a passionate **Web Developer** focused on crafting dynamic and responsive user interfaces. I enjoy building full-stack applications, integrating AI, and exploring cloud technologies like **Supabase** and **Firebase**.  
+<p align="left">
+Full-Stack Software Engineer specializing in <b>Spring Boot</b> and <b>Angular</b>, with hands-on experience integrating AI-driven tooling into DevOps and healthcare platforms. I enjoy owning features end-to-end — from data preparation and model training to API design and deployment.
+</p>
 
-🌟 **Let's innovate and create together!**
-
----
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devtaissirhammouda&label=Profile%20views&color=0e75b6&style=flat" alt="devtaissirhammouda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devtaissirhammouda" alt="devtaissirhammouda" /></a> </p>
-
-## 💻 About Me
-
-- 🔹 Skilled in **Angular**, **React**, **Spring Boot**, **Node.js**, and **PHP**.  
-- 🔹 Experienced with **Supabase**, **Firebase**, and **CI/CD pipelines** for scalable and automated apps.  
-- 🔹 Exploring **AI technologies** to build smarter applications.  
-- 🔹 Currently learning **Flutter** for cross-platform mobile apps.  
-- 🔹 Coffee enthusiast ☕ — it fuels my coding sessions.  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=devtaissirhammouda&label=Profile%20views&color=0e75b6&style=flat" alt="devtaissirhammouda" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devtaissirhammouda" alt="devtaissirhammouda" /></a>
+</p>
 
 ---
 
-## 🚀 My Work
+## 🧑‍💻 About Me
 
-Check out all my projects here:  
-[🌐 Portfolio](https://taissir-hammouda-portfolio.vercel.app)
-
----
-Check out my resume here:
-[Resume](https://drive.google.com/file/d/1yz2xFWR09FmlnMv1D-9-ePASUGIWmE0w/view?usp=drive_link)
-
----
-## 🛠 Languages & Tools
-
-**Frontend:** HTML5, CSS3, JavaScript, TypeScript, Angular, React, Bootstrap, Tailwind, Figma  
-**Backend:** Java, Spring Boot, Node.js, PHP  
-**Databases & Cloud:** MySQL, PostgreSQL, MongoDB, Firebase, Supabase  
-**Other Tools:** Docker, Git, Linux, CI/CD pipelines  
-**Currently Learning:** Flutter  
+- 🔭 Currently working as an **AI Engineer Intern**, building anomaly-detection models for CI/CD pipeline data
+- 💼 Full-stack development experience with **Java, Spring Boot, Angular, and TypeScript**
+- ☁️ Comfortable across the stack — from **REST API & microservices design** to **cloud deployment (AWS, Azure)**
+- 🧠 Applied AI/ML experience: **CNN, NLP, and prompt engineering**, integrated into production tooling
+- 📚 Pursuing an **M.Sc. in Software Engineering** at ISIMM, Monastir
+- 🌱 Currently expanding into **Flutter** for cross-platform mobile development
 
 ---
 
-## 🏆 Achievements & Contributions
+## 🛠 Tech Stack
 
-- Contributed to multiple **full-stack projects** integrating modern frameworks and cloud services.  
-- Implemented **CI/CD pipelines** for automated deployments.  
-- Built **AI-powered solutions** for smarter user experiences.  
-- Open-source contributor with **GitHub repositories showcasing professional projects**.  
+**Backend:** Java · Spring Boot · Node.js · PHP · REST APIs · Microservices
+**Frontend:** Angular · React · TypeScript · HTML5 · CSS3 · Tailwind · Bootstrap
+**Data & Cloud:** SQL · PostgreSQL · MySQL · MongoDB · Firebase · Supabase
+**DevOps:** Docker · Git · CI/CD · Linux · AWS · Azure
+**AI / ML:** AI Integration · CNN · NLP · Prompt Engineering
+**Currently Learning:** Flutter
+
+---
+
+## 🏆 Highlights
+
+- Built and trained ML models to detect CI pipeline anomalies and predict failure likelihood
+- Migrated a client application architecture from a frontend-only Supabase setup to a dedicated backend service layer with MongoDB, improving scalability
+- Delivered core modules of an enterprise medical process management platform (Spring Boot + Angular), including EHR, scheduling, and a prescription recommendation pipeline built on CRISP-DM
+- Certified in **AWS Cloud Foundations & Cloud Developing**, **Linux Foundations**, and **AI Fundamentals**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Taissir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devtaissirhammouda&show_icons=true&hide_border=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devtaissirhammouda&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devtaissirhammouda&show_icons=true&hide_border=true&theme=radical" alt="Taissir's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devtaissirhammouda&layout=compact&theme=radical" alt="Top Languages" height="165" />
+</p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/hammouda-taissir-1029a2201/)  
-- [Facebook](https://www.facebook.com/taissir.hammouda.7)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammouda-taissir-1029a2201/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/taissir.hammouda.7)
 
-
-💬 Ask me about **Angular**, **Spring Boot**, **AI** or **Docker**  — I love sharing knowledge!
-
----
-
-## ⚡ Fun Fact
-
-I drink **a lot of coffee** while coding ☕  
-
----
-
-## 🔗 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/hammouda-taissir-1029a2201/) | [Facebook](https://www.facebook.com/taissir.hammouda.7)
+Happy to talk about **Angular**, **Spring Boot**, **AI integration**, or **Docker/CI-CD** — always glad to share what I've learned.
